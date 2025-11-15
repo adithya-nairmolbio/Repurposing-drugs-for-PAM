@@ -1,2 +1,2 @@
-# Repurposing-drugs-for-PAM
-A complete computational drug-repurposing project for PAM. Includes docking, molecular dynamics simulations, and binding energy analysis to identify potential inhibitors against Naegleria fowleri target proteins. Shows my practical skills in bioinformatics and computer-aided drug design.
+This project focuses on computational drug repurposing for Primary Amoebic Meningoencephalitis (PAM), a rare but highly fatal infection caused by Naegleria fowleri. The work involves identifying potential therapeutic candidates by performing molecular docking, molecular dynamics simulations, and binding energy calculations.
+The repository includes the workflow used to screen repurposed drugs, analyze protein–ligand interactions, evaluate structural stability, and compute binding affinity using MM-PBSA/MM-GBSA methods. This project demonstrates my skills in computational biology, docking, MD simulations, and bioinformatics-driven drug discovery.
